@@ -13,7 +13,7 @@ body {
 
 body::before {
     content: '';
-    background: url('fundo.webp');
+    background: url('fundo.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
